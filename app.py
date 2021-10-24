@@ -52,7 +52,8 @@ elif choice == 'About':
 
     st.write(
         """
-    ### Aplikasi ini merupakan salah satu frontend dari aplikasi monitoring perilaku antisosial berdasarkan data dari Twitter di Indonesia.
-    ### Aplikasi ini juga merupakan tugas akhir mata kuliah Sistem Intelijen dari Fitri Andri Astuti/ 23220030@std.stei.itb.ac.id
+    ### This application is one of the frontends of anti-social behavior monitoring applications based on data from Twitter in Indonesia.
+    ### This application is also the prototype of final project for the Intelligence System course from Fitri Andri Astuti/ 23220030@std.stei.itb.ac.id.
+    ### This appllication is also part of draft conference ICDSOS 2021.
     """
     )

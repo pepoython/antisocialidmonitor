@@ -49,9 +49,9 @@ def show_explore_page(df):
         y='count',
         color=alt.Color('classname_eng',
                         scale=alt.Scale(
-                            domain=['Non-Antisocial or General Class',
-                                    'Failure to conform social norms of lawful behavior',
-                                    'Irritability and aggressive',
+                            domain=['Non-Antisocial / General',
+                                    'Failure to Conform to Social Norms Concerning Lawful Behaviour',
+                                    'Irritability and Aggressiveness',
                                     'Reckless Disregard for Safety',
                                     'Lack of Remorse'],
                             range=['blue', 'red', 'green', 'orange', 'purple'])
